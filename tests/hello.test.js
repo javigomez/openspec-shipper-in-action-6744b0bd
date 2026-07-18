@@ -18,6 +18,14 @@ test("returns a Spanish greeting for the provided name", () => {
   assert.equal(greeting("Ada", "es"), "Hola, Ada!");
 });
 
+test("returns a shouted English greeting", () => {
+  assert.equal(greeting("Ada", undefined, true), "HELLO, ADA!");
+});
+
+test("returns a shouted Spanish greeting", () => {
+  assert.equal(greeting("Ada", "es", true), "HOLA, ADA!");
+});
+
 test("returns the default Spanish greeting without a name", () => {
   assert.equal(greeting(undefined, "es"), "Hola, mundo!");
 });
