@@ -13,3 +13,15 @@ test("returns a greeting for the provided name", () => {
 test("falls back to world for blank names", () => {
   assert.equal(greeting("   "), "Hello, world!");
 });
+
+test("returns a Spanish greeting for the provided name", () => {
+  assert.equal(greeting("Ada", "es"), "Hola, Ada!");
+});
+
+test("returns the default Spanish greeting without a name", () => {
+  assert.equal(greeting(undefined, "es"), "Hola, mundo!");
+});
+
+test("falls back to English for unknown languages", () => {
+  assert.equal(greeting("Ada", "fr"), "Hello, Ada!");
+});
