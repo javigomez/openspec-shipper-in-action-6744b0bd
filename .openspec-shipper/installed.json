@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "installedAt": "2026-07-18T16:10:02.366Z",
+  "files": {
+    ".openspec-shipper/codex/prompts/archive.md": {
+      "sourceHash": "4ceababccec982f8e99c1a6b9c6432afd7e8d7f1b5a17f827fe3ff1d818d17a5",
+      "targetHash": "4ceababccec982f8e99c1a6b9c6432afd7e8d7f1b5a17f827fe3ff1d818d17a5"
+    },
+    ".openspec-shipper/codex/prompts/implement.md": {
+      "sourceHash": "19aa0ef6001c88571651ff02ff0ada39cb3649c66b749f8d01a911ca483266cc",
+      "targetHash": "19aa0ef6001c88571651ff02ff0ada39cb3649c66b749f8d01a911ca483266cc"
+    },
+    ".openspec-shipper/codex/workflow.md": {
+      "sourceHash": "e93af48bd9f0d0d55d2ab2c5e0ef21cc028117746f796a148bf864671c485ad1",
+      "targetHash": "e93af48bd9f0d0d55d2ab2c5e0ef21cc028117746f796a148bf864671c485ad1"
+    },
+    ".openspec-shipper/README.md": {
+      "sourceHash": "909584058198957cdaf097d20059ce99fc73b98c220aad96d971eb769a0a5c69",
+      "targetHash": "909584058198957cdaf097d20059ce99fc73b98c220aad96d971eb769a0a5c69"
+    },
+    ".openspec-shipper/openspec-config.example.yaml": {
+      "sourceHash": "535feb541fe0f11b978f4d2f21a30d3bbf0cc3f17324d040d70ad25da6f826e1",
+      "targetHash": "535feb541fe0f11b978f4d2f21a30d3bbf0cc3f17324d040d70ad25da6f826e1"
+    },
+    ".openspec-shipper/scripts/validate-branch-name.mjs": {
+      "sourceHash": "ce8eeb30e6a74db56ba5ee778bd1ff93f3989506e2c894853b44b97223677be3",
+      "targetHash": "ce8eeb30e6a74db56ba5ee778bd1ff93f3989506e2c894853b44b97223677be3"
+    },
+    ".openspec-shipper/scripts/validate-openspec-proposal.mjs": {
+      "sourceHash": "487ed7feddf870cf5de4cd0438700771820e03218f420cfe907f49d94ee8459a",
+      "targetHash": "487ed7feddf870cf5de4cd0438700771820e03218f420cfe907f49d94ee8459a"
+    },
+    ".openspec-shipper/config.json": {
+      "sourceHash": "f916ba460cc4181e49b8684d915701de4768ea4fdcdb600201bab82469f1ec43",
+      "targetHash": "f916ba460cc4181e49b8684d915701de4768ea4fdcdb600201bab82469f1ec43"
+    },
+    ".openspec-shipper/.env.example": {
+      "sourceHash": "99d981f2bc1c9a64b439ecdb57266e4b73272fe967c2d74a4d17d098126e07d4",
+      "targetHash": "99d981f2bc1c9a64b439ecdb57266e4b73272fe967c2d74a4d17d098126e07d4"
+    },
+    ".openspec-shipper/queue.example.md": {
+      "sourceHash": "5d5eb02e499f35780d3369241559a80c69272141046492882b54a8b46974a7b0",
+      "targetHash": "5d5eb02e499f35780d3369241559a80c69272141046492882b54a8b46974a7b0"
+    }
+  }
+}
