@@ -1,5 +1,10 @@
 # hello-cli Specification
 
+## Purpose
+
+Provide a minimal greeting CLI used to demonstrate incremental OpenSpec changes
+and the OpenSpec Shipper delivery workflow.
+
 ## Requirements
 
 ### Requirement: Default greeting
